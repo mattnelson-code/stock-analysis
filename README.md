@@ -16,14 +16,14 @@
 ### Analysis of Green Stocks (2017)
 
 * VBA code implemented to analyze green stocks (2017)
-* Total daily volume and yearly return: ![VBA_Challenge_2017_Results](Resources/VBA_Challenge_2017_Results)
-* Elapsed run time: ![VBA_Challenge_2017](Resources/VBA_Challenge_2017)
+* Total daily volume and yearly return: ![VBA_Challenge_2017_Results](Resources/VBA_Challenge_2017_Results.png)
+* Elapsed run time: ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 
 ### Analysis of Green Stocks (2018)
 
 * VBA code implemented to analyze green stocks (2018)
-* Total daily volume and yearly return: ![VBA_Challenge_2018_Results](Resources/VBA_Challenge_2018_Results)
-* Elapsed run time: ![VBA_Challenge_2018](Resources/VBA_Challenge_2018)
+* Total daily volume and yearly return: ![VBA_Challenge_2018_Results](Resources/VBA_Challenge_2018_Results.png)
+* Elapsed run time: ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -35,8 +35,8 @@
 
 1. Yearly return is positive for 11 of 12 green stocks in 2017, with TERP being the lone exception. On the other hand, yearly return is negative for 10 of 12 green stocks in 2018, with ENPH and RUN being the 2 exceptions. As a result, 9 of 12 green stocks alternated between a positive or negative yearly return in 2017 and 2018. This result demonstrates the importance of diversification because of 2 reasons:
 
-    1. Stock returns fluctuate year to year
-    2. Diversification minimizes risk. A diversified portfolio will withstand the impact of one stock incurring a large negative return. 
+    - Stock returns fluctuate year to year
+    - Diversification minimizes risk. A diversified portfolio will withstand the impact of one stock incurring a large negative return. 
 
 2. DQ stock's yearly return follows a similar trend as the rest of the green stocks. In 2017 DQ's yearly return was 199.4%, and in 2018 its yearly return was -62.6%. These results indicate DQ's volatility. With this data it seems that DQ is a worthwhile investment, but there is a level of risk that makes diversification a quality option. 
 
@@ -46,16 +46,16 @@
 
 ### Advantages and Disadvantages of Refactoring Code
 
-* Advantages 
+1. Advantages 
 
-    1. Program runs more efficiently
-    2. Program becomes easier to read/understand
-    3. Helps find bugs 
+    - Program runs more efficiently
+    - Program becomes easier to read/understand
+    - Helps find bugs 
 
-* Disadvantages 
+2. Disadvantages 
 
-    1. Time-consuming
-    2. Must be done carefully. For example, refactoring a long program can lead to mistakes and therefore can make the program worse 
+    - Time-consuming
+    - Must be done carefully. For example, refactoring a long program can lead to mistakes and therefore can make the program worse 
 
 ### Advantages and Disadvantages of Original and Refactored Code for Green Stocks
 
